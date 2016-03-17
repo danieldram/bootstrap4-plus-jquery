@@ -10,7 +10,7 @@
 	"_location": "/bootstrap",
 	"_nodeVersion": "5.1.1",
 	"_npmUser": {
-		"email": "getbootstrap@gmail.com",
+		"email": "danieldram@gmail.com",
 		"name": "twbs"
 	},
 	"_npmVersion": "3.3.12",
@@ -31,9 +31,9 @@
 	"_shrinkwrap": null,
 	"_spec": "bootstrap@4.0.0-alpha.2",
 	"_where": "",
-	"author": "Twitter, Inc.",
+	"author": "Daniel Ram",
 	"bugs": {
-		"url": "https://github.com/twbs/bootstrap/issues"
+		"url": "https://github.com/danieldram/bootstrap4-plus-jquery/issues"
 	},
 	"dependencies": {
 		"jquery": "^2.2.1"
@@ -116,13 +116,8 @@
 		}
 	},
 	"keywords": [
-		"css",
-		"framework",
-		"front-end",
-		"mobile-first",
-		"responsive",
-		"sass",
-		"web"
+	   "bootstrap",
+     "bootstrap 4"
 	],
 	"license": "MIT",
 	"main": "./dist/js/npm",
@@ -133,7 +128,7 @@
 	"optionalDependencies": {},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/twbs/bootstrap.git"
+		"url": "https://github.com/danieldram/bootstrap4-plus-jquery"
 	},
 	"sass": "scss/bootstrap.scss",
 	"scripts": {
