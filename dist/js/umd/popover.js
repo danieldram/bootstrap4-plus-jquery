@@ -33,7 +33,6 @@
    */
 
   var Popover = function ($) {
-    console.log($(document.body));
     /**
      * ------------------------------------------------------------------------
      * Constants
