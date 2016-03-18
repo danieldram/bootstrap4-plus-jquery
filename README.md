@@ -12,7 +12,7 @@ npm install jquery --save
 # JavaScript ES6 Usage
 ## app.js
 ```js
-import 'bootstrap';
+import 'bootstrap4-plus-jquery';
 import {Http} from 'angular2/http';
 //more code etc...
 ```
